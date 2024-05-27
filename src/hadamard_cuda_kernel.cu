@@ -1,7 +1,11 @@
 /*
-This file is copied directly from Tri Dao's implementation in HazyResearch/structured-nets
+CREDIT: Tri Dao / Hazy research 
+
+This cuda kernel is copied directly from Tri Dao's implementation in HazyResearch/structured-nets
 
 https://github.com/HazyResearch/structured-nets/blob/master/pytorch/structure/hadamard_cuda/hadamard_cuda_kernel.cu
+
+I was considering using a git-submodule but its clearner and simpler to just copy the file.
 */
 
 
